@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">TP4</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="google_maps_key">AIzaSyCsKBxNn94-TiQsIEtVVI_TTB9gzAWeSvk</string>
+    <string name="nom_etab">Nom :</string>
+    <string name="desc_etab">Description :</string>
+    <string name="lat_etab">Latitude :</string>
+    <string name="log_etab">Longitude :</string>
+    <string name="addEtab">Ajouter</string>
+    <string name="login">Login : </string>
+    <string name="mdp">Mot de passe : </string>
+    <string name="bvn">Bienvenue </string>
+    <string name="connect">Se connecter </string>
+    <string name="newacc">Créer un nouveau compte </string>
+    <string name="signup">Sinscrire </string>
+    <string name="cfmdp">Conf le MDP : </string>
+    <string name="success">Authentification : Success </string>
+    <string name="supp">Supprimer </string>
+</resources>
